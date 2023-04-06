@@ -2863,3 +2863,51 @@ const reducer = (state = initialState, action) => {
 };
 ```
 In this example, we define a searchTodos action creator that takes a keyword as parameter and dispatches a SEARCH_TODOS_REQUEST action with the keyword as payload. 
+
+
+
+
+
+
+# Questions:
+
+1. it is possible to create a multi-page in application in react?
+2. What is React Fiber?
+3. How do Webpack and Babel differ?
+4. What do you prefer functional component or class component?
+5. Do you know the Lifecycle methods? In detail?'
+6. by using what method we can achieve Lifecycle methods? '
+7. Useeffect hook and she asked me can you show me how?
+8. What is the difference between state and prop
+9. What is Context API
+10. What is use effect
+11. Explain React Lifecycle
+12. What is Hooks?
+13. Redux 3 principles explain briefly.
+14. Explain about functions and class component
+15. What is the default port where react app runs?
+16. A class is a type of function, but instead of using the keyword function to initiate it, which keyword do we use?
+17. What is the default port where webpack-server runs?
+18. what is the difference between package.json and package.lock.json,
+19. what is the difference between npm and npx,
+20. redux-toolkit,
+21. why browser can't read jsx,
+22. can we use react without npm,
+23. most important file in react,
+24. can we put one component inside the body of another component,
+25. can we use JSX without react,
+26. can we perform conditional rendering with variable,
+27. can we pass props to a child component which is already inside a child component,
+28. is state accessible outside a component,
+29. can we define a function inside useEffect hook,
+30. when should we use ref and when should we use state,
+31. application of HOC
+32. What are higher-order components
+33. What is react and why do we use it?
+34. what is virtual dom
+35. routing
+36. Useref
+37. what is rerendering
+39. Difference controlled and uncontrolled component
+40. Difference between use memo and use call back
+41. Which library do you use for updating an image
